@@ -14,15 +14,18 @@ var timer2 = 1;
 var bRandomCity = true;
 var jumpEvery = 1000;
 
-var cities = [ [40.70449, -74.01347], // New York
-               [-34.60853891153415,-58.37203572841672], // Buenos Aires
-               [35.69, 139.692],                        // Tokyo
-               [48.85345578180323, 2.3494093081153227], // Paris
-               [52.52102983799353, 13.410161005151533], // Berlin
-               [41.89031260191685, 12.489897096332864], // Rome
-               [31.239100568083142, 121.49866546209958],// Shanghai
-               [41.88974809227126, -87.621372374896],   // Chicago
-               [40.74862572012136, -73.98550831271747]  // Empire State
+var cities = [ [1.275740, 103.844550], // Seng Wong Beo (City God)
+               [1.274880, 103.841150], // Lim See Tai Chong Soo Kiu Leong Tong
+               [1.276890, 103.842550],                        // Poo Thor Jee
+               [1.278730, 103.840850], // Che Hian Khor Moral Uplifting Society
+               [1.281090, 103.840880], // Kong Chow Wu Koon
+               [1.279480, 103.841500], // Cundi Gong
+               [1.282430, 103.845360],    // Zi Jing Ge Moral Uplifting Society
+               [1.281260, 103.844630],   // Buddha Tooth Relic Temple
+	       [1.279950, 103.846660],   // Siang Cho Keong
+  	       [1.280890, 103.845850],   // Chung Shan Hoizou Association
+  	       [1.280980, 103.847780],   // Thian Hock Keng
+               [1.282350, 103.845320]  // Sri Mariamman Temple
                ];
 
 // ============================================= INIT 
